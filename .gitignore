@@ -1,5 +1,6 @@
 *__pycache__*
 *.ipynb_checkpoints/*
+baseten-api-key.txt
 huggingface-hub-api-token-write.txt
 openai-api-secret-key.txt
 legalbench/data/*
