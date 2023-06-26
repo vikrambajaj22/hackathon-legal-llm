@@ -1,0 +1,3 @@
+[submodule "legalbench/static-eval"]
+	path = legalbench/static-eval
+	url = https://github.com/NomosArtificial/static-eval.git
