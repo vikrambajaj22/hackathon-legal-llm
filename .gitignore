@@ -1,2 +1,5 @@
+*.ipynb_checkpoints/*
+openai-api-secret-key.txt
 legalbench/data/*
 *.DS_Store
+legalbench/static-eval/*
